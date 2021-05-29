@@ -23,24 +23,24 @@ class ListViewHome extends StatelessWidget {
 
           ),
           ListTile(
-            title:Text("Hamza Khurshid "),
-            subtitle: Text("Done bachelors from the comsats Abbottabad in Software engineering"),
+            title:Text("Peter "),
+            subtitle: Text("canada , software Engineer"),
             leading: CircleAvatar(backgroundImage: NetworkImage("https://images.unsplash.com/photo-1547721064-da6cfb341d50")),
            
           ),
           ListTile(
-            title:Text("Hamza Khurshid "),
-            subtitle: Text("Done bachelors from the comsats Abbottabad in Software engineering"),
+            title:Text("Peter "),
+            subtitle: Text("canada , software Engineer"),
             leading: CircleAvatar(backgroundImage: NetworkImage("https://images.unsplash.com/photo-1547721064-da6cfb341d50")),
           ),
           ListTile(
-            title:Text("Hamza Khurshid "),
-            subtitle: Text("Done bachelors from the comsats Abbottabad in Software engineering"),
+            title:Text("Peter "),
+            subtitle: Text("canada , software Engineer"),
             leading: CircleAvatar(backgroundImage: NetworkImage("https://images.unsplash.com/photo-1547721064-da6cfb341d50")),
           ),
           ListTile(
-            title:Text("Hamza Khurshid "),
-            subtitle: Text("Done bachelors from the comsats Abbottabad in Software engineering"),
+            title:Text("Peter "),
+            subtitle: Text("canada , software Engineer"),
             leading: CircleAvatar(backgroundImage: NetworkImage("https://images.unsplash.com/photo-1547721064-da6cfb341d50")),
             
           ),
